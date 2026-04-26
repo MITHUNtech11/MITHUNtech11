@@ -13,10 +13,10 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
-- 🌍 Based in **Madurai, Tamil Nadu, India**
-- 🌱 Currently exploring **Machine Learning, Cloud (Azure), and Full Stack Web Dev**
+- 🌍 Based in **Chennai, Tamil Nadu, India**
+- 🌱 Currently exploring **Machine Learning, Cloud , and Full Stack Web Dev**
 - 💡 I enjoy building things, breaking them, and learning from both
-- 📫 Reach me at: **[LinkedIn](https://linkedin.com)** <!-- Replace with your actual LinkedIn URL -->
+- 📫 Reach me at: **[LinkedIn](www.linkedin.com/in/mithunsenthil)** <!-- Replace with your actual LinkedIn URL -->
 
 ---
 
@@ -68,17 +68,6 @@
 - ☁️ Microsoft Azure cloud services
 - 🗄️ Advanced PostgreSQL & database design
 - 🌐 Full-stack web development
-
----
-
-## 📌 Pinned Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Data Science](https://github.com/MITHUNtech11/Data-Science) | Data analysis & visualization projects | Python, Pandas, Matplotlib |
-| [Python Assignments](https://github.com/MITHUNtech11/PYTHON-ASSIGNMENTS-CSA0899) | Python programming exercises | Python |
-| [Data Structures](https://github.com/MITHUNtech11/Data-structure-CSA0393-MITHUN-) | Classic DSA implementations in C | C, Algorithms |
-| [Compiler Design](https://github.com/MITHUNtech11/Compiler-Design) | Compiler design concepts & implementations | C |
 
 ---
 
