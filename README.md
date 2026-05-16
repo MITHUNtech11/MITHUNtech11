@@ -1,114 +1,181 @@
+<!-- ============================================================ -->
+<!--         MITHUN SENTHIL — GitHub Profile README              -->
+<!-- ============================================================ -->
+
 <div align="center">
 
-# Hi, I'm Mithun Senthil 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=36&pause=1000&color=C0392B&center=true&vCenter=true&width=700&height=90&lines=MITHUN+SENTHIL;AI+%26+Data+Science+Engineer;Building+Things+That+Matter.)](https://git.io/typing-svg)
 
-### Software Engineer · AI & Data Science Undergrad · Oracle Certified
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Undergrad+%7C+Graduating+2027;Python+%7C+Java+%7C+Azure+%7C+NLP+%7C+ML;2x+Oracle+Certified+%7C+2x+Internships;Building+real+things+that+solve+real+problems)](https://git.io/typing-svg)
+```
+╔══════════════════════════════════════════════════════════════╗
+║  📍 Chennai, India  ·  🎓 CGPA 8.40  ·  🏅 2× Oracle Cert  ║
+║  💼 2 Internships   ·  🌱 NLP · Azure · FastAPI · ML        ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mithuntech11.github.io-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://mithuntech11.github.io/Portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mithunsenthil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mithunsenthil)
-[![Email](https://img.shields.io/badge/Email-mithuntech111@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithuntech111@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=MITHUNtech11&color=blue&style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mithuntech11.github.io-C0392B?style=for-the-badge&labelColor=1a0a00&logo=github&logoColor=f5efe6)](https://mithuntech11.github.io/Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mithunsenthil-8B0000?style=for-the-badge&labelColor=1a0a00&logo=linkedin&logoColor=f5efe6)](https://linkedin.com/in/mithunsenthil)
+[![Email](https://img.shields.io/badge/Email-mithuntech111%40gmail.com-C0392B?style=for-the-badge&labelColor=1a0a00&logo=gmail&logoColor=f5efe6)](mailto:mithuntech111@gmail.com)
+[![Views](https://komarev.com/ghpvc/?username=MITHUNtech11&color=C0392B&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/MITHUNtech11)
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## `> whoami`
 
-- 🎓 **B.Tech — Artificial Intelligence & Data Science** @ Saveetha University *(CGPA: 8.40 | 2023–2027)*
-- 💼 **2 internships** in cloud data engineering & intelligent automation
-- 🏅 **Oracle Certified** in SQL and Java SE 11
-- 🌍 Based in **Chennai, Tamil Nadu, India**
-- 🌱 Currently deepening expertise in **NLP, ML pipelines, Azure cloud & FastAPI**
-- 🔗 Portfolio: [mithuntech11.github.io/Portfolio](https://mithuntech11.github.io/Portfolio)
+```python
+class MithunSenthil:
+    def __init__(self):
+        self.name         = "Mithun Senthil"
+        self.role         = "AI & Data Science Undergrad → Software Engineer"
+        self.university   = "Saveetha University  ·  B.Tech AI & DS  ·  2023–2027"
+        self.cgpa         = 8.40
+        self.location     = "Chennai, Tamil Nadu, India"
+        self.certifications = [
+            "Oracle Cloud Infrastructure — SQL          (Nov 2024)",
+            "Oracle Certified Professional — Java SE 11 (Dec 2024)",
+            "Introduction to Agile                      (Apr 2026)",
+        ]
+        self.currently_learning = [
+            "NLP pipelines", "Azure cloud architecture",
+            "FastAPI", "ML deployment",
+        ]
+
+    def quote(self):
+        return "Building real things that solve real problems."
+```
 
 ---
 
-## 💼 Internship Experience
+## `> cat experience.log`
 
-### 🏥 AI Intern — Kauvery Hospital *(Oct 2025 – Dec 2025)*
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 AI Intern — Kauvery Hospital
+`Oct 2025 – Dec 2025`
 
 **Digital Product Data Vault**
-- Python + PostgreSQL web app managing monthly product datasets across hospital departments
-- Integrated **Azure Blob Storage & Cosmos DB** for cloud file management
-- Reduced data entry errors by **~30%** via automated validation pipelines
+> Python + PostgreSQL web app managing monthly hospital product datasets, backed by **Azure Blob Storage & Cosmos DB**
+>
+> `→ ↓30%` data entry errors via automated validation pipelines
 
 **AI Recruiter Application**
-- AI-powered recruitment system using **Streamlit + Gemini API** for automated resume screening
-- NLP pipeline (tokenization, skill extraction, keyword matching) to rank candidates vs job descriptions
-- Reduced manual screening effort by **~40%**, processing **100+ resumes per run**
+> NLP pipeline — tokenization · skill extraction · keyword matching — using **Streamlit + Gemini API** to rank candidates vs job descriptions
+>
+> `→ ↓40%` screening effort · `100+` resumes per run
 
-### 🏙️ Python Intern — RedBack IT Solutions *(Aug 2025 – Sep 2025)*
+</td>
+<td width="50%" valign="top">
+
+### 🏙️ Python Intern — RedBack IT Solutions
+`Aug 2025 – Sep 2025`
 
 **Urban Route Optimizer**
-- Route optimization engine using **OSMnx + NetworkX** on OpenStreetMap with Dijkstra's algorithm
-- Streamlit UI with Folium maps showing multi-route options, ETA & distance for **5+ city profiles**
-- Optimized graph loading & caching to achieve **under 2-second** query response time
+> Route engine using **OSMnx + NetworkX** on OpenStreetMap with Dijkstra's algorithm. Streamlit UI with Folium maps — multi-route options, ETA & distance for `5+` city profiles
+>
+> `→ <2s` query response via graph loading & caching
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+## `> ls ./projects`
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [AI Recruiter](https://github.com/MITHUNtech11) | NLP-powered resume screening & candidate ranking system | Python, Streamlit, Gemini API, spaCy |
-| [Urban Route Optimizer](https://github.com/MITHUNtech11) | Graph-based city route optimizer with live ETA | Python, OSMnx, NetworkX, Folium |
-| [Digital Product Data Vault](https://github.com/MITHUNtech11) | Cloud-integrated data management with Azure backend | Python, PostgreSQL, Azure, Cosmos DB |
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frameworks & Libraries
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![CosmosDB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### Cloud & DevOps
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+| # | Project | Description | Stack |
+|---|---------|-------------|-------|
+| `01` | **[AI Recruiter](https://github.com/MITHUNtech11)** | NLP-powered resume screening & candidate ranking | `Python` `Streamlit` `Gemini API` `spaCy` |
+| `02` | **[Urban Route Optimizer](https://github.com/MITHUNtech11)** | Graph-based city routing engine with live ETA | `OSMnx` `NetworkX` `Folium` `Streamlit` |
+| `03` | **[Digital Product Data Vault](https://github.com/MITHUNtech11)** | Cloud-integrated hospital data management platform | `Python` `PostgreSQL` `Azure` `Cosmos DB` |
 
 ---
 
-## 🏅 Certifications
-
-| Certification | Issuer | Date |
-|--------------|--------|------|
-| ✅ Oracle Cloud Infrastructure — SQL *(OC5306507)* | Oracle | Nov 2024 |
-| ✅ Oracle Certified Professional — Java SE 11 Developer *(100878330OCPJSE11)* | Oracle | Dec 2024 |
-| ✅ Introduction to Agile *(10071441)* | — | Apr 2026 |
-
----
-
-## 📊 GitHub Stats
+## `> tech --list`
 
 <div align="center">
 
-![Mithun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MITHUNtech11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+### 🐍 Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MITHUNtech11&layout=compact&theme=tokyonight&hide_border=true)
+![Python](https://img.shields.io/badge/Python-1a0a00?style=for-the-badge&logo=python&logoColor=C0392B)
+![Java](https://img.shields.io/badge/Java-1a0a00?style=for-the-badge&logo=openjdk&logoColor=C0392B)
+![SQL](https://img.shields.io/badge/SQL-1a0a00?style=for-the-badge&logo=mysql&logoColor=C0392B)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MITHUNtech11&theme=tokyonight&hide_border=true)
+### ⚙️ Frameworks & Libraries
+
+![FastAPI](https://img.shields.io/badge/FastAPI-1a0a00?style=for-the-badge&logo=fastapi&logoColor=f5efe6)
+![Streamlit](https://img.shields.io/badge/Streamlit-1a0a00?style=for-the-badge&logo=streamlit&logoColor=f5efe6)
+![spaCy](https://img.shields.io/badge/spaCy-1a0a00?style=for-the-badge&logo=spacy&logoColor=f5efe6)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1a0a00?style=for-the-badge&logo=scikit-learn&logoColor=f5efe6)
+![Pandas](https://img.shields.io/badge/Pandas-1a0a00?style=for-the-badge&logo=pandas&logoColor=f5efe6)
+![NumPy](https://img.shields.io/badge/NumPy-1a0a00?style=for-the-badge&logo=numpy&logoColor=f5efe6)
+![OSMnx](https://img.shields.io/badge/OSMnx-1a0a00?style=for-the-badge&logo=openstreetmap&logoColor=f5efe6)
+![NetworkX](https://img.shields.io/badge/NetworkX-1a0a00?style=for-the-badge&logo=python&logoColor=f5efe6)
+
+### ☁️ Cloud & Databases
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-1a0a00?style=for-the-badge&logo=microsoft-azure&logoColor=C0392B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0a00?style=for-the-badge&logo=postgresql&logoColor=C0392B)
+![CosmosDB](https://img.shields.io/badge/Cosmos_DB-1a0a00?style=for-the-badge&logo=microsoft-azure&logoColor=C0392B)
+![Supabase](https://img.shields.io/badge/Supabase-1a0a00?style=for-the-badge&logo=supabase&logoColor=C0392B)
+![MySQL](https://img.shields.io/badge/MySQL-1a0a00?style=for-the-badge&logo=mysql&logoColor=C0392B)
+![Git](https://img.shields.io/badge/Git-1a0a00?style=for-the-badge&logo=git&logoColor=C0392B)
+![GitHub](https://img.shields.io/badge/GitHub-1a0a00?style=for-the-badge&logo=github&logoColor=C0392B)
 
 </div>
+
+---
+
+## `> github --stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MITHUNtech11&show_icons=true&theme=transparent&title_color=C0392B&text_color=1a0a00&icon_color=C0392B&border_color=C0392B&bg_color=fff8f0&hide_border=false&include_all_commits=true&rank_icon=github" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITHUNtech11&layout=compact&theme=transparent&title_color=C0392B&text_color=1a0a00&border_color=C0392B&bg_color=fff8f0&hide_border=false" height="160"/>
+
+</div>
+
+---
+
+## `> git streak`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MITHUNtech11&theme=transparent&background=fff8f0&border=C0392B&stroke=C0392B&ring=8B0000&fire=C0392B&currStreakNum=1a0a00&sideNums=1a0a00&currStreakLabel=C0392B&sideLabels=8B0000&dates=6b4f3a&hide_border=false" height="160"/>
+
+</div>
+
+---
+
+## `> cat certifications.json`
+
+```json
+[
+  {
+    "title"  : "Oracle Cloud Infrastructure — SQL",
+    "issuer" : "Oracle",
+    "id"     : "OC5306507",
+    "date"   : "Nov 2024"
+  },
+  {
+    "title"  : "Oracle Certified Professional — Java SE 11 Developer",
+    "issuer" : "Oracle",
+    "id"     : "100878330OCPJSE11",
+    "date"   : "Dec 2024"
+  },
+  {
+    "title"  : "Introduction to Agile",
+    "id"     : "10071441",
+    "date"   : "Apr 2026"
+  }
+]
+```
 
 ---
 
@@ -116,7 +183,9 @@
 
 *"Building real things that solve real problems."*
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-0d1117?style=for-the-badge)](https://mithuntech11.github.io/Portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mithunsenthil)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-C0392B?style=for-the-badge&labelColor=1a0a00)](https://mithuntech11.github.io/Portfolio)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-8B0000?style=for-the-badge&labelColor=1a0a00&logo=linkedin&logoColor=f5efe6)](https://linkedin.com/in/mithunsenthil)
+
+`B.Tech AI & Data Science · Saveetha University · 2023–2027`
 
 </div>
