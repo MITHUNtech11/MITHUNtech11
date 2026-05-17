@@ -4,13 +4,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=36&pause=1000&color=C0392B&center=true&vCenter=true&width=700&height=90&lines=MITHUN+SENTHIL;AI+%26+Data+Science+Engineer;Building+Things+That+Matter.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=36&pause=1000&color=C0392B&center=true&vCenter=true&width=700&height=90&lines=MITHUN+SENTHIL;AI+%26+Data+Science+Engineer;Building+Things+That+Matter.)](https://git.io/typing-svg)
 
 <br/>
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  📍 Chennai, India  ·  🎓 CGPA 8.40  ·  🏅 2× Oracle Cert  ║
+║  📍 Chennai, India  ·  🎓 CGPA 8.40  ·  🏅 3× Certified    ║
 ║  💼 2 Internships   ·  🌱 NLP · Azure · FastAPI · ML        ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -101,31 +101,22 @@ class MithunSenthil:
 <div align="center">
 
 ### 🐍 Languages
-
-![Python](https://img.shields.io/badge/Python-1a0a00?style=for-the-badge&logo=python&logoColor=C0392B)
-![Java](https://img.shields.io/badge/Java-1a0a00?style=for-the-badge&logo=openjdk&logoColor=C0392B)
-![SQL](https://img.shields.io/badge/SQL-1a0a00?style=for-the-badge&logo=mysql&logoColor=C0392B)
+[![My Skills](https://skillicons.dev/icons?i=python,java,mysql)](https://skillicons.dev)
 
 ### ⚙️ Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=fastapi,sklearn,pytorch)](https://skillicons.dev)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-1a0a00?style=for-the-badge&logo=fastapi&logoColor=f5efe6)
-![Streamlit](https://img.shields.io/badge/Streamlit-1a0a00?style=for-the-badge&logo=streamlit&logoColor=f5efe6)
-![spaCy](https://img.shields.io/badge/spaCy-1a0a00?style=for-the-badge&logo=spacy&logoColor=f5efe6)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1a0a00?style=for-the-badge&logo=scikit-learn&logoColor=f5efe6)
-![Pandas](https://img.shields.io/badge/Pandas-1a0a00?style=for-the-badge&logo=pandas&logoColor=f5efe6)
-![NumPy](https://img.shields.io/badge/NumPy-1a0a00?style=for-the-badge&logo=numpy&logoColor=f5efe6)
-![OSMnx](https://img.shields.io/badge/OSMnx-1a0a00?style=for-the-badge&logo=openstreetmap&logoColor=f5efe6)
-![NetworkX](https://img.shields.io/badge/NetworkX-1a0a00?style=for-the-badge&logo=python&logoColor=f5efe6)
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spaCy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/OSMnx-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/NetworkX-013243?style=for-the-badge&logo=python&logoColor=white"/>
 
 ### ☁️ Cloud & Databases
+[![My Skills](https://skillicons.dev/icons?i=azure,postgres,mysql,supabase,git,github,vscode)](https://skillicons.dev)
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-1a0a00?style=for-the-badge&logo=microsoft-azure&logoColor=C0392B)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0a00?style=for-the-badge&logo=postgresql&logoColor=C0392B)
-![CosmosDB](https://img.shields.io/badge/Cosmos_DB-1a0a00?style=for-the-badge&logo=microsoft-azure&logoColor=C0392B)
-![Supabase](https://img.shields.io/badge/Supabase-1a0a00?style=for-the-badge&logo=supabase&logoColor=C0392B)
-![MySQL](https://img.shields.io/badge/MySQL-1a0a00?style=for-the-badge&logo=mysql&logoColor=C0392B)
-![Git](https://img.shields.io/badge/Git-1a0a00?style=for-the-badge&logo=git&logoColor=C0392B)
-![GitHub](https://img.shields.io/badge/GitHub-1a0a00?style=for-the-badge&logo=github&logoColor=C0392B)
+<img src="https://img.shields.io/badge/Cosmos_DB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 
 </div>
 
@@ -135,9 +126,9 @@ class MithunSenthil:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MITHUNtech11&show_icons=true&theme=transparent&title_color=C0392B&text_color=1a0a00&icon_color=C0392B&border_color=C0392B&bg_color=fff8f0&hide_border=false&include_all_commits=true&rank_icon=github" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITHUNtech11&layout=compact&theme=transparent&title_color=C0392B&text_color=1a0a00&border_color=C0392B&bg_color=fff8f0&hide_border=false" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MITHUNtech11&show_icons=true&count_private=true&theme=github_dark&title_color=C0392B&icon_color=C0392B&border_color=30180f&bg_color=0e0c0a&hide_border=false&include_all_commits=true&rank_icon=github" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITHUNtech11&layout=compact&theme=github_dark&title_color=C0392B&border_color=30180f&bg_color=0e0c0a&hide_border=false" height="165"/>
 
 </div>
 
@@ -147,7 +138,7 @@ class MithunSenthil:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MITHUNtech11&theme=transparent&background=fff8f0&border=C0392B&stroke=C0392B&ring=8B0000&fire=C0392B&currStreakNum=1a0a00&sideNums=1a0a00&currStreakLabel=C0392B&sideLabels=8B0000&dates=6b4f3a&hide_border=false" height="160"/>
+<img src="https://streak-stats.demolab.com?user=MITHUNtech11&theme=dark&background=0e0c0a&border=30180f&stroke=C0392B&ring=8B0000&fire=C0392B&currStreakNum=e8d5c0&sideNums=e8d5c0&currStreakLabel=C0392B&sideLabels=8B0000&dates=7a5c48&hide_border=false" width="700"/>
 
 </div>
 
