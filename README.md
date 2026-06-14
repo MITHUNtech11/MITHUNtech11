@@ -1,186 +1,152 @@
-<!-- ============================================================ -->
-<!--         MITHUN SENTHIL — GitHub Profile README              -->
-<!-- ============================================================ -->
+<h1 align="center">Hi 👋, I'm Mithun Senthil S</h1>
+<h3 align="center">Java Full Stack Developer · AI & Data Science Undergraduate · Oracle Certified</h3>
 
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=36&pause=1000&color=C0392B&center=true&vCenter=true&width=700&height=90&lines=MITHUN+SENTHIL;AI+%26+Data+Science+Engineer;Building+Things+That+Matter." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Chennai,%20India-C0392B?style=for-the-badge&label=%F0%9F%93%8D&labelColor=1a0a00" />
-<img src="https://img.shields.io/badge/CGPA-8.40-C0392B?style=for-the-badge&label=%F0%9F%8E%93&labelColor=1a0a00" />
-<img src="https://img.shields.io/badge/Certified-3%C3%97-C0392B?style=for-the-badge&label=%F0%9F%8F%85&labelColor=1a0a00" />
-<img src="https://img.shields.io/badge/Internships-2-C0392B?style=for-the-badge&label=%F0%9F%92%BC&labelColor=1a0a00" />
-
-<br/><br/>
-
-<a href="https://mithuntech11.github.io/Portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-mithuntech11.github.io-C0392B?style=for-the-badge&labelColor=1a0a00&logo=github&logoColor=f5efe6" />
-</a>
-<a href="https://linkedin.com/in/mithunsenthil">
-  <img src="https://img.shields.io/badge/LinkedIn-mithunsenthil-8B0000?style=for-the-badge&labelColor=1a0a00&logo=linkedin&logoColor=f5efe6" />
-</a>
-<a href="mailto:mithuntech111@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mithuntech111%40gmail.com-C0392B?style=for-the-badge&labelColor=1a0a00&logo=gmail&logoColor=f5efe6" />
-</a>
-<a href="https://github.com/MITHUNtech11">
-  <img src="https://komarev.com/ghpvc/?username=MITHUNtech11&color=C0392B&style=for-the-badge&label=PROFILE+VIEWS" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/mithunsenthil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://mithuntech11.github.io/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:mithuntech111@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
-## &gt; whoami
+## 👨‍💻 About Me
 
-<div align="center">
-
-<table>
-<tr>
-<td align="left">
-
-<b>Name:</b> Mithun Senthil<br/>
-<b>Role:</b> AI & Data Science Undergrad → Software Engineer<br/>
-<b>University:</b> Saveetha University · B.Tech AI & DS · 2023–2027<br/>
-<b>CGPA:</b> 8.40<br/>
-<b>Location:</b> Chennai, Tamil Nadu, India<br/>
-<b>Currently Learning:</b> NLP pipelines · Azure cloud architecture · FastAPI · ML deployment<br/>
-<b>Quote:</b> Building real things that solve real problems.
-
-</td>
-</tr>
-</table>
-
-</div>
+- 🎓 Final-year **B.Tech AI & Data Science** student at Saveetha University *(CGPA: 8.40 / 10.0)* — Graduating 2027
+- 🏥 **AI Intern** @ Kauvery Hospital — Built REST APIs, data vaults, NLP recruitment pipelines
+- 🐍 **Python Intern** @ RedBack IT Solutions — Developed graph-based urban route optimizer
+- ☕ **Oracle Certified** Java SE 11 Developer & SQL Professional
+- 🚀 Currently building **CoLivio** — an AI-powered co-living management system
+- 📫 Reach me at **mithuntech111@gmail.com**
 
 ---
 
-## &gt; cat experience.log
+## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
-<h3>🏥 AI Intern — Kauvery Hospital</h3>
-<b>Oct 2025 – Dec 2025</b>
-<br/><br/>
+### Web & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
 
-<b>Digital Product Data Vault</b><br/>
-Python + PostgreSQL web app managing monthly hospital product datasets, backed by <b>Azure Blob Storage & Cosmos DB</b>.<br/>
-<b>Impact:</b> ↓30% data entry errors via automated validation pipelines.
-<br/><br/>
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Cosmos_DB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Cosmos DB"/>
+</p>
 
-<b>AI Recruiter Application</b><br/>
-NLP pipeline using tokenization, skill extraction, and keyword matching with <b>Streamlit + Gemini API</b> to rank candidates against job descriptions.<br/>
-<b>Impact:</b> ↓40% screening effort · 100+ resumes per run.
+### Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
-</td>
-<td width="50%" valign="top">
-
-<h3>🏙️ Python Intern — RedBack IT Solutions</h3>
-<b>Aug 2025 – Sep 2025</b>
-<br/><br/>
-
-<b>Urban Route Optimizer</b><br/>
-Route engine using <b>OSMnx + NetworkX</b> on OpenStreetMap with Dijkstra's algorithm. Streamlit UI with Folium maps, multi-route options, ETA, and distance for 5+ city profiles.<br/>
-<b>Impact:</b> &lt;2s query response via graph loading and caching.
-
-</td>
-</tr>
-</table>
-
----
-
-## &gt; ls ./projects
-
-| # | Project | Description | Stack |
-|---|---------|-------------|-------|
-| 01 | **[AI Recruiter](https://github.com/MITHUNtech11)** | NLP-powered resume screening and candidate ranking | `Python` `Streamlit` `Gemini API` `spaCy` |
-| 02 | **[Urban Route Optimizer](https://github.com/MITHUNtech11)** | Graph-based city routing engine with live ETA | `OSMnx` `NetworkX` `Folium` `Streamlit` |
-| 03 | **[Digital Product Data Vault](https://github.com/MITHUNtech11)** | Cloud-integrated hospital data management platform | `Python` `PostgreSQL` `Azure` `Cosmos DB` |
+### Testing & Tools
+<p>
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
 
 ---
 
-## &gt; tech --list
+## 💼 Experience
 
-<div align="center">
+### 🏥 AI Intern — Kauvery Hospital *(Oct 2025 – Dec 2025)*
+**Digital Product Data Vault**
+- Designed relational schema (PostgreSQL/MySQL) with full CRUD REST endpoints
+- Used JDBC for parameterized database access; integrated Azure Blob Storage & Cosmos DB
+- Reduced data entry errors by ~30% through automated input validation
 
-<h3>🐍 Languages</h3>
-<img src="https://skillicons.dev/icons?i=python,java,mysql" alt="Languages" />
-
-<h3>⚙️ Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=fastapi,sklearn,pytorch" alt="Frameworks" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spaCy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/OSMnx-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" />
-<img src="https://img.shields.io/badge/NetworkX-013243?style=for-the-badge&logo=python&logoColor=white" />
-
-<h3>☁️ Cloud & Databases</h3>
-<img src="https://skillicons.dev/icons?i=azure,postgres,mysql,supabase,git,github,vscode" alt="Cloud and databases" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Cosmos_DB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-
-</div>
+**AI Recruiter Application**
+- Built end-to-end MVC recruitment app with NLP skill extraction & candidate ranking
+- Developed REST APIs processing 100+ resumes per run using hashmaps & priority queues
+- Reduced manual screening effort by ~40%; wrote JUnit test cases for scoring logic
 
 ---
 
-## &gt; github --stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MITHUNtech11&show_icons=true&count_private=true&theme=github_dark&title_color=C0392B&icon_color=C0392B&border_color=30180f&bg_color=0e0c0a&hide_border=false&include_all_commits=true&rank_icon=github" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITHUNtech11&layout=compact&theme=github_dark&title_color=C0392B&border_color=30180f&bg_color=0e0c0a&hide_border=false" height="165" />
-
-</div>
+### 🐍 Python Intern — RedBack IT Solutions *(Aug 2025 – Sep 2025)*
+**Urban Route Optimizer**
+- Built a Dijkstra's algorithm-based route engine on real OpenStreetMap data
+- Delivered sub-2-second query performance via graph caching; supported 5+ city profiles
+- Designed REST-compatible endpoints decoupling routing engine from the frontend
 
 ---
 
-## &gt; git streak
+## 🚀 Projects
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MITHUNtech11&theme=dark&background=0e0c0a&border=30180f&stroke=C0392B&ring=8B0000&fire=C0392B&currStreakNum=e8d5c0&sideNums=e8d5c0&currStreakLabel=C0392B&sideLabels=8B0000&dates=7a5c48&hide_border=false" width="700" />
-
-</div>
+| Project | Tech Stack | Description |
+|---|---|---|
+| **[AI Recruiter](https://github.com/MITHUNtech11)** | Java · Python · REST API · MySQL · NLP · JUnit | NLP-based resume screening pipeline with MVC architecture; ~40% faster shortlisting |
+| **[Digital Product Data Vault](https://github.com/MITHUNtech11)** | Java · PostgreSQL · JDBC · Azure · REST API | Cloud-integrated CRUD system with schema validation and audit logging |
+| **[Urban Route Optimizer](https://github.com/MITHUNtech11)** | Python · OSMnx · NetworkX · Streamlit · DSA | Graph-based city router using Dijkstra's algorithm on real-world map data |
+| **[CoLivio](https://github.com/MITHUNtech11)** | Python · AI · REST API | AI-powered co-living management system *(In Progress)* |
 
 ---
 
-## &gt; cat certifications
+## 🏆 Certifications
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Oracle-Java_SE_11_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java SE 11"/>
+  <img src="https://img.shields.io/badge/Oracle-Cloud_SQL_(OCI)-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
+  <img src="https://img.shields.io/badge/Agile-Introduction_Certified-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile"/>
+</p>
 
-| Certification | Issuer | ID | Date |
+| Certification | Issuer | Credential ID | Date |
 |---|---|---|---|
-| Oracle Cloud Infrastructure — SQL | Oracle | OC5306507 | Nov 2024 |
 | Oracle Certified Professional — Java SE 11 Developer | Oracle | 100878330OCPJSE11 | Dec 2024 |
-| Introduction to Agile | — | 10071441 | Apr 2026 |
-
-</div>
+| Oracle Cloud Infrastructure — SQL | Oracle | OC5306507 | Nov 2024 |
+| Introduction to Agile | Agile Institute | 10071441 | Apr 2026 |
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-<i>Building real things that solve real problems.</i>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MITHUNtech11&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITHUNtech11&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MITHUNtech11&theme=default&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-<a href="https://mithuntech11.github.io/Portfolio">
-  <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-C0392B?style=for-the-badge&labelColor=1a0a00" />
-</a>
-<a href="https://linkedin.com/in/mithunsenthil">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-8B0000?style=for-the-badge&labelColor=1a0a00&logo=linkedin&logoColor=f5efe6" />
-</a>
+---
 
-<br/><br/>
+## 🎓 Education
 
-<b>B.Tech AI & Data Science · Saveetha University · 2023–2027</b>
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| B.Tech — AI & Data Science | Saveetha School of Engineering, Saveetha University | 2023 – 2027 | CGPA: 8.40 / 10.0 |
+| Higher Secondary (CBSE) | Sunbeam International School | 2021 – 2023 | 72% |
+| Senior Secondary (CBSE) | Balsam Academy | 2019 – 2021 | 70% |
 
-</div>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MITHUNtech11&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <i>⚡ "Building with data, shipping with purpose."</i>
+</p>
