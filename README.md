@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mithunsenthil S
 
-<h3 align="center">Java Full Stack Developer | AI & Data Science Undergraduate | Oracle Certified Professional</h3>
+<h3 align="center">Software Developer | AI & Data Science Undergraduate | Oracle Certified Professional</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mithunsenthil" target="_blank">
