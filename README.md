@@ -112,10 +112,10 @@
 
 | Project | Tech Stack | Description |
 |---|---|---|
-| **[AI Recruiter](https://github.com/MITHUNtech11)** | Java · Python · REST API · MySQL · NLP · JUnit | NLP-based resume screening pipeline with MVC architecture; ~40% faster shortlisting |
 | **[Digital Product Data Vault](https://github.com/MITHUNtech11)** | Java · PostgreSQL · JDBC · Azure · REST API | Cloud-integrated CRUD system with schema validation and audit logging |
 | **[Urban Route Optimizer](https://github.com/MITHUNtech11)** | Python · OSMnx · NetworkX · Streamlit · DSA | Graph-based city router using Dijkstra's algorithm on real-world map data |
 | **[CoLivio](https://github.com/MITHUNtech11)** | Python · AI · REST API | AI-powered co-living management system *(In Progress)* |
+| **[AI Recruiter](https://github.com/MITHUNtech11)** | Java · Python · REST API · MySQL · NLP · JUnit | NLP-based resume screening pipeline with MVC architecture; ~40% faster shortlisting |
 
 ---
 
@@ -134,30 +134,6 @@
 | Introduction to Agile | Agile Institute | 10071441 | Apr 2026 |
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MITHUNtech11&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITHUNtech11&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MITHUNtech11&theme=default&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| B.Tech — AI & Data Science | Saveetha School of Engineering, Saveetha University | 2023 – 2027 | CGPA: 8.40 / 10.0 |
-| Higher Secondary (CBSE) | Sunbeam International School | 2021 – 2023 | 72% |
-| Senior Secondary (CBSE) | Balsam Academy | 2019 – 2021 | 70% |
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MITHUNtech11&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
